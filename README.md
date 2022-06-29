@@ -1,4 +1,6 @@
-![Divyash Kumar](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/header.gif" width='3000' align="left"/>
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Divyash</h2>
 
@@ -10,7 +12,7 @@
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering from IIITDM Jabalpur\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development and my tech stack is MERN\
 ✍️ &nbsp;In my free time, I like to paint\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at kumardivyash@gmail.com! I'll try to respond as soon as I can.\
 I'm open to feedback and suggestions!
 
