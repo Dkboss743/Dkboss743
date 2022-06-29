@@ -4,7 +4,7 @@
 
 <img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/wave-hand.gif" width='40' align="left"/><h2>Hey there! I'm Divyash</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Divyash -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -33,8 +33,13 @@ I'm open to feedback and suggestions!
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Divyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkboss743&hide=contribs,prs,stars,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkboss743&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+GitHub Commits           |  Languages Used
+:-------------------------:|:-------------------------:
+[![Divyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkboss743&hide=contribs,prs,stars,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkboss743&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
