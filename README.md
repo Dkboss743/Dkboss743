@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/header.gif" width='900' align="left"/>
+<img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/header.gif" width='860' align="left"/>
 &nbsp;
 <img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/wave-hand.gif" width='40' align="left"/><h2>Hey there! I'm Divyash</h2>
 
