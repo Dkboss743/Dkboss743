@@ -2,11 +2,8 @@
 <img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/header.gif" width='840' align="left"/>
 &nbsp;
 <img alt="Night Coding" src="https://github.com/Dkboss743/profile/blob/main/wave-hand.gif" width='40' align="left"/><h2>Hey there! I'm Divyash</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Divyash -->
-
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering from IIITDM Jabalpur\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development and my tech stack is MERN\
@@ -14,11 +11,9 @@
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at kumardivyash@gmail.com! I'll try to respond as soon as I can.\
 I'm open to feedback and suggestions!
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -30,7 +25,7 @@ I'm open to feedback and suggestions!
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![](https://komarev.com/ghpvc/?username=Dkboss743&label=PROFILE+VIEWS)
 ### ⚙️ &nbsp;GitHub Analytics
 GitHub Commits           |  Languages Used
 :-------------------------:|:-------------------------:
