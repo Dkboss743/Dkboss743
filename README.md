@@ -27,9 +27,11 @@ I'm open to feedback and suggestions!
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Dkboss743&label=PROFILE+VIEWS)
 ### ⚙️ &nbsp;GitHub Analytics
+![trophy](https://github-profile-trophy.vercel.app/?username=Dkboss743&rank=-?)
 GitHub Commits           |  Languages Used
 :-------------------------:|:-------------------------:
-[![Divyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkboss743&hide=contribs,prs,stars,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkboss743&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Divyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkboss743&hide=contribs,prs,stars,issues&show_icons=true&theme=radical)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkboss743&layout=compact&theme=radical)
+
 
 
 
